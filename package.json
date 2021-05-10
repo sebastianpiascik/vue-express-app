@@ -18,7 +18,7 @@
     "errorhandler": "^1.5.1",
     "express": "^4.17.0",
     "express-session": "^1.16.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "lowdb": "^1.0.0",
     "mongodb-autoincrement": "^1.0.1",
     "mongoose": "^5.5.10",
